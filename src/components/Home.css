@@ -1,0 +1,12 @@
+/* Home.css */
+
+.button-container {
+    margin-top: 20px;
+  }
+  
+  .button-container .btn {
+    margin-right: 10px;
+  }
+.main-container{
+    background-color: rgb(191, 191, 191);
+}
